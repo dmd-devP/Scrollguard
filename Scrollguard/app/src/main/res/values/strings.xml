@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScrollGuard</string>
+    <string name="accessibility_label">ScrollGuard feed detector</string>
+    <string name="accessibility_description">Detects when you are in the Instagram feed so ScrollGuard can show its timer, dim the screen, and run check-ins. ScrollGuard is offline: nothing leaves your device.</string>
+</resources>
